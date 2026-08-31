@@ -68,11 +68,10 @@ that probably shouldn't work but somehow do.
 ### `discord`
 
 <p align="center">
-  <a href="https://discord.com">
-    <img src="https://lanyard.cnrad.dev/api/370022596034428938" />
+  <a href="https://discord.com/users/370022596034428938">
+    <img src="https://lanyard.cnrad.dev/api/370022596034428938?theme=dark&bg=0D1117&borderRadius=8px" />
   </a>
 </p>
-
 ---
 
 ### `spotify`

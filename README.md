@@ -1,16 +1,90 @@
-## Hi there 👋
+# `>_` LAX
 
-<!--
-**Fhugshore/Fhugshore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=BSIT+Student;Aspiring+Software+Developer;Building+%26+Breaking+Things;Always+Learning+Something+New" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=grey&label=PROFILE+VIEWS" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### `whoami`
+
+```bash
+$ whoami
+
+lax
+
+$ cat about.txt
+
+BSIT student.
+Interested in software, databases, UI/UX and building things
+that probably shouldn't work but somehow do.
+```
+
+---
+
+### `stack`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,mysql,postgres,git,github,vscode" />
+</p>
+
+---
+
+### `stats`
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=8B949E" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117" />
+</p>
+
+
+
+### `currently`
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│  Learning       →  Software Development     │
+│  Exploring      →  Backend / Databases      │
+│  Improving      →  UI / UX                  │
+│  Building       →  Personal Projects        │
+│  Debugging      →  Everything               │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+### `discord`
+
+<p align="center">
+  <a href="https://discord.com">
+    <img src="https://lanyard.cnrad.dev/api/psycho_von" />
+  </a>
+</p>
+
+---
+
+### `spotify`
+
+<p align="center">
+  <a href="https://spotify.com">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ycnooza7myelwlc7zxk3xgiatm&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=ffffff&bar_color_cover=true" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
+</p>

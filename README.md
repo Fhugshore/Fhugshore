@@ -1,4 +1,4 @@
-# `>_` LAX
+# `-_-` LAX
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=BSIT+Student;Aspiring+Software+Developer;Building+%26+Breaking+Things;Always+Learning+Something+New" />

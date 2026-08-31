@@ -69,7 +69,7 @@ that probably shouldn't work but somehow do.
 
 <p align="center">
   <a href="https://discord.com">
-    <img src="https://lanyard.cnrad.dev/api/1543952717943283712" />
+    <img src="https://lanyard.cnrad.dev/api/370022596034428938" />
   </a>
 </p>
 

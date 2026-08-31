@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=grey&label=PROFILE+VIEWS" />
+  <a href="https://github.com/Fhugshore">
+    <img src="https://komarev.com/ghpvc/?username=Fhugshore&style=flat-square&color=grey&label=PROFILE+VIEWS" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@ that probably shouldn't work but somehow do.
 ### `stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,mysql,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,python,java,postgres,vscode" />
 </p>
 
 ---
@@ -44,7 +44,7 @@ that probably shouldn't work but somehow do.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=Fhugshore&theme=github-dark-blue&hide_border=true&background=0D1117" />
 </p>
 
 
@@ -54,11 +54,11 @@ that probably shouldn't work but somehow do.
 ```text
 ┌──────────────────────────────────────────────┐
 │                                              │
-│  Learning       →  Software Development     │
-│  Exploring      →  Backend / Databases      │
-│  Improving      →  UI / UX                  │
-│  Building       →  Personal Projects        │
-│  Debugging      →  Everything               │
+│  Learning       →  Software Development      │
+│  Exploring      →  Game Development          │
+│  Improving      →  UI / UX                   │
+│  Building       →  Personal Projects         │
+│  Debugging      →  Everything                │
 │                                              │
 └──────────────────────────────────────────────┘
 ```

@@ -12,7 +12,7 @@
 
 ---
 
-### `whoami`
+### `who am I`
 
 ```bash
 $ whoami
@@ -22,7 +22,7 @@ lax
 $ cat about.txt
 
 BSIT student.
-Interested in software, databases, UI/UX and building things
+Interested in software, game developing, and building things
 that probably shouldn't work but somehow do.
 ```
 

@@ -76,6 +76,7 @@ that probably shouldn't work but somehow do.
 ---
 
 ### `spotify`
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ycnooza7myelwlc7zxk3xgiatm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ycnooza7myelwlc7zxk3xgiatm&redirect=true)
 
 ---

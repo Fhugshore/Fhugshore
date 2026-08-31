@@ -68,12 +68,8 @@ that probably shouldn't work but somehow do.
 ### `discord`
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31ycnooza7myelwlc7zxk3xgiatm">
-    <img src="https://img.shields.io/badge/Spotify-Profile-0D1117?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile"/>
-  </a>
-  
   <a href="https://discord.com/users/370022596034428938">
-    <img src="https://img.shields.io/badge/Discord-Profile-0D1117?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile"/>
+    <img src="https://cdn.simpleicons.org/discord/FFFFFF" width="50" alt="Discord"/>
   </a>
 </p>
 ---

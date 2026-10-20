@@ -1,8 +1,7 @@
 # `-_-` LAX
 
 <p align="center">
-  <img src=<img width="739" height="415" alt="iit" src="https://github.com/user-attachments/assets/fdebd25f-07f0-4442-9ce3-aa3e6d889bd4" />
-font=JetBrains+Mono&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=BSIT+Student;Aspiring+Software+Developer;Building+%26+Breaking+Things;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=BSIT+Student;Aspiring+Software+Developer;Building+%26+Breaking+Things;Always+Learning+Something+New" />
 </p>
 
 <p align="center">

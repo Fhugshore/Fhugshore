@@ -19,7 +19,7 @@ Who am I?
 
 lax
 
-$ cat about.txt
+cat about.txt
 
 A bad BSIT student.
 Interested in software, game developing, and building things

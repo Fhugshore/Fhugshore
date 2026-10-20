@@ -39,8 +39,8 @@ that probably shouldn't work but somehow do.
 ### `stats`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=8B949E" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fhugshore&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=8B949E" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fhugshore&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E" />
 </p>
 
 <p align="center">
